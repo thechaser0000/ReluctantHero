@@ -317,7 +317,7 @@ namespace TestGame
                     new("в порядок настолько, насколько хватило сил и желания, был опубликован "),
                     new("на Github уже в окончательном виде."),
                     new(""),
-                    new("Ссылка на Github автора: https://github.com/thechaser0000"),
+                    new("Ссылка на GitHub автора: https://github.com/thechaser0000"),
                 }
             };
 
